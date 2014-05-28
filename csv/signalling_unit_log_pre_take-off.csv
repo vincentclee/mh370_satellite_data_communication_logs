@@ -1,0 +1,417 @@
+time,channel_name,ocean_region,ges_id,channel_unit_id,channel_type,su_type,burst_frequency_offset,burst_timing_offset
+7/03/2014 16:00:13.406,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x15 - Log-on/Log-off Acknowledge,103,14820
+7/03/2014 16:00:13.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x15 - Log-on/Log-off Acknowledge,null,null
+7/03/2014 16:00:17.430,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,103,14740
+7/03/2014 16:00:17.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,103,14780
+7/03/2014 16:00:18.406,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eight Octet User Data,103,14820
+7/03/2014 16:00:18.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:00:20.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:00:20.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:00:20.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:00:20.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:00:22.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x62 - Acknowledge User Data (R-channel),104,14740
+7/03/2014 16:00:23.407,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x22 - Access Request (R/T-Channel),103,14820
+7/03/2014 16:00:23.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x51 - T-Channel Assignment,null,null
+7/03/2014 16:00:27.741,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,0x71 - User Data (ISU) - RLS,86,9820
+7/03/2014 16:00:27.901,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,86,9820
+7/03/2014 16:00:28.61,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,88,9820
+7/03/2014 16:00:28.221,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,88,9820
+7/03/2014 16:00:28.405,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,88,9820
+7/03/2014 16:00:28.541,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,88,9820
+7/03/2014 16:00:29.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:00:30.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:00:30.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:00:30.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:00:30.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:00:32.406,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x62 - Acknowledge User Data (R-channel),85,14820
+7/03/2014 16:01:16.406,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,86,14820
+7/03/2014 16:01:16.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Four Octet User Data,86,14820
+7/03/2014 16:01:17.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:01:18.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:01:18.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:01:19.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x22 - Access Request (R/T-Channel),87,14780
+7/03/2014 16:01:20.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x51 - T-Channel Assignment,null,null
+7/03/2014 16:01:20.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x62 - Acknowledge User Data (R-channel),87,14800
+7/03/2014 16:01:24.241,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,0x71 - User Data (ISU) - RLS,88,9800
+7/03/2014 16:01:24.401,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,88,9800
+7/03/2014 16:01:24.561,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,88,9800
+7/03/2014 16:01:24.721,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,88,9800
+7/03/2014 16:01:24.881,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,86,9800
+7/03/2014 16:01:25.41,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,86,9800
+7/03/2014 16:01:25.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:01:26.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:01:26.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:01:28.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x62 - Acknowledge User Data (R-channel),86,14800
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:32.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:34.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x62 - Acknowledge User Data (R-channel),88,14780
+7/03/2014 16:06:35.406,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,88,14860
+7/03/2014 16:06:35.907,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,88,14800
+7/03/2014 16:06:36.407,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eight Octet User Data,88,14820
+7/03/2014 16:06:36.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:38.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:40.907,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x62 - Acknowledge User Data (R-channel),87,14820
+7/03/2014 16:06:41.409,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,87,14820
+7/03/2014 16:06:41.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,87,14800
+7/03/2014 16:06:42.406,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eight Octet User Data,87,14880
+7/03/2014 16:06:42.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:44.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:46.416,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x62 - Acknowledge User Data (R-channel),90,14840
+7/03/2014 16:06:46.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,86,14780
+7/03/2014 16:06:47.406,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,88,14840
+7/03/2014 16:06:47.907,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eight Octet User Data,87,14800
+7/03/2014 16:06:48.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:06:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:06:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:50.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:52.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x62 - Acknowledge User Data (R-channel),87,14800
+7/03/2014 16:06:53.406,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,87,14860
+7/03/2014 16:06:53.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,88,14780
+7/03/2014 16:06:54.407,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eight Octet User Data,88,14860
+7/03/2014 16:06:54.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:56.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:06:58.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x62 - Acknowledge User Data (R-channel),89,14780
+7/03/2014 16:06:59.406,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,89,14900
+7/03/2014 16:06:59.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,89,14780
+7/03/2014 16:07:00.407,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eight Octet User Data,89,14860
+7/03/2014 16:07:00.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:02.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:04.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x62 - Acknowledge User Data (R-channel),88,14820
+7/03/2014 16:07:05.407,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,88,14820
+7/03/2014 16:07:05.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,89,14860
+7/03/2014 16:07:06.407,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eight Octet User Data,88,14820
+7/03/2014 16:07:06.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:08.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:10.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x62 - Acknowledge User Data (R-channel),87,14800
+7/03/2014 16:07:11.406,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,88,14860
+7/03/2014 16:07:11.906,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,Eleven Octet User Data,87,14840
+7/03/2014 16:07:13.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:07:15.907,IOR-R1200-0-36E3,IOR,305,11,R-Channel RX,Eight Octet User Data,84,14820
+7/03/2014 16:07:16.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:07:18.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:07:18.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:18.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:18.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:18.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:18.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:18.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:18.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:18.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:18.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:18.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:18.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:07:20.407,IOR-R1200-0-36E3,IOR,305,11,R-Channel RX,0x62 - Acknowledge User Data (R-channel),84,14840
+7/03/2014 16:07:20.907,IOR-R1200-0-36E3,IOR,305,11,R-Channel RX,Eleven Octet User Data,84,14800
+7/03/2014 16:07:21.408,IOR-R1200-0-36E3,IOR,305,11,R-Channel RX,Eleven Octet User Data,84,14840
+7/03/2014 16:07:21.908,IOR-R1200-0-36E3,IOR,305,11,R-Channel RX,Eight Octet User Data,84,14840
+7/03/2014 16:07:22.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:09:37.407,IOR-R1200-0-36E3,IOR,305,11,R-Channel RX,0x22 - Access Request (R/T-Channel),84,14840
+7/03/2014 16:09:37.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x51 - T-Channel Assignment,null,null
+7/03/2014 16:09:41.749,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,0x71 - User Data (ISU) - RLS,88,9900
+7/03/2014 16:09:41.948,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,88,9900
+7/03/2014 16:09:42.68,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,89,9900
+7/03/2014 16:09:42.260,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,89,9900
+7/03/2014 16:09:42.405,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,90,9900
+7/03/2014 16:09:42.548,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,90,9900
+7/03/2014 16:09:42.709,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,90,9900
+7/03/2014 16:09:42.869,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,90,9900
+7/03/2014 16:09:43.28,IOR-T1200-0-36D8,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,89,9900
+7/03/2014 16:09:43.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:09:44.907,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:09:44.907,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:09:44.907,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:09:44.907,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:09:46.907,IOR-R1200-0-36E3,IOR,305,11,R-Channel RX,0x62 - Acknowledge User Data (R-channel),85,14840
+7/03/2014 16:11:03.907,IOR-R1200-0-36E3,IOR,305,11,R-Channel RX,0x22 - Access Request (R/T-Channel),84,14840
+7/03/2014 16:11:04.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x51 - T-Channel Assignment,null,null
+7/03/2014 16:11:08.306,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,0x71 - User Data (ISU) - RLS,89,9820
+7/03/2014 16:11:08.409,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,89,9820
+7/03/2014 16:11:08.568,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,89,9820
+7/03/2014 16:11:08.746,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,89,9820
+7/03/2014 16:11:08.888,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,89,9820
+7/03/2014 16:11:09.68,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,89,9820
+7/03/2014 16:11:09.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:11:11.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:11:11.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:11:11.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:11:11.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:11:13.408,IOR-R1200-0-36E3,IOR,305,11,R-Channel RX,0x62 - Acknowledge User Data (R-channel),84,14860
+7/03/2014 16:27:59.407,IOR-R1200-0-36E3,IOR,305,11,R-Channel RX,0x22 - Access Request (R/T-Channel),88,14920
+7/03/2014 16:27:59.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x53 - Reservation Forthcoming (RFC),null,null
+7/03/2014 16:28:01.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x51 - T-Channel Assignment,null,null
+7/03/2014 16:28:10.641,IOR-T1200-0-36FA,IOR,305,10,T-Channel RX,0x71 - User Data (ISU) - RLS,87,9920
+7/03/2014 16:28:10.801,IOR-T1200-0-36FA,IOR,305,10,T-Channel RX,Subsequent Signalling Unit,87,9920
+7/03/2014 16:28:10.961,IOR-T1200-0-36FA,IOR,305,10,T-Channel RX,Subsequent Signalling Unit,88,9920
+7/03/2014 16:28:11.142,IOR-T1200-0-36FA,IOR,305,10,T-Channel RX,Subsequent Signalling Unit,88,9920
+7/03/2014 16:28:11.281,IOR-T1200-0-36FA,IOR,305,10,T-Channel RX,Subsequent Signalling Unit,88,9920
+7/03/2014 16:28:11.479,IOR-T1200-0-36FA,IOR,305,10,T-Channel RX,Subsequent Signalling Unit,88,9920
+7/03/2014 16:28:11.601,IOR-T1200-0-36FA,IOR,305,10,T-Channel RX,Subsequent Signalling Unit,88,9920
+7/03/2014 16:28:11.761,IOR-T1200-0-36FA,IOR,305,10,T-Channel RX,Subsequent Signalling Unit,88,9920
+7/03/2014 16:28:11.952,IOR-T1200-0-36FA,IOR,305,10,T-Channel RX,Subsequent Signalling Unit,88,9920
+7/03/2014 16:28:12.81,IOR-T1200-0-36FA,IOR,305,10,T-Channel RX,Subsequent Signalling Unit,88,9920
+7/03/2014 16:28:12.258,IOR-T1200-0-36FA,IOR,305,10,T-Channel RX,Subsequent Signalling Unit,88,9920
+7/03/2014 16:28:12.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:28:13.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:28:13.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:28:13.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:28:13.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:28:15.909,IOR-R1200-0-36E3,IOR,305,11,R-Channel RX,0x62 - Acknowledge User Data (R-channel),85,14860
+7/03/2014 16:29:17.407,IOR-R1200-0-36E3,IOR,305,11,R-Channel RX,0x22 - Access Request (R/T-Channel),95,14860
+7/03/2014 16:29:17.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x51 - T-Channel Assignment,null,null
+7/03/2014 16:29:21.748,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,0x71 - User Data (ISU) - RLS,99,9940
+7/03/2014 16:29:21.908,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,99,9940
+7/03/2014 16:29:22.68,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,98,9940
+7/03/2014 16:29:22.228,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,98,9940
+7/03/2014 16:29:22.388,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,99,9940
+7/03/2014 16:29:22.570,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,99,9940
+7/03/2014 16:29:22.708,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,100,9940
+7/03/2014 16:29:22.895,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,100,9940
+7/03/2014 16:29:23.28,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,99,9940
+7/03/2014 16:29:23.197,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,99,9940
+7/03/2014 16:29:23.348,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,99,9940
+7/03/2014 16:29:23.508,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,99,9940
+7/03/2014 16:29:23.668,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,99,9940
+7/03/2014 16:29:23.829,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,99,9940
+7/03/2014 16:29:23.988,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,98,9940
+7/03/2014 16:29:24.29,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,98,9940
+7/03/2014 16:29:25.760,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,100,9940
+7/03/2014 16:29:25.909,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,100,9940
+7/03/2014 16:29:26.81,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,98,9940
+7/03/2014 16:29:26.251,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,98,9940
+7/03/2014 16:29:26.388,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,98,9940
+7/03/2014 16:29:26.548,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,98,9940
+7/03/2014 16:29:26.745,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,98,9940
+7/03/2014 16:29:26.868,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,98,9940
+7/03/2014 16:29:27.28,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,98,9940
+7/03/2014 16:29:27.188,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,98,9940
+7/03/2014 16:29:27.349,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,100,9940
+7/03/2014 16:29:27.508,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,100,9940
+7/03/2014 16:29:27.668,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,99,9940
+7/03/2014 16:29:27.828,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,99,9940
+7/03/2014 16:29:27.988,IOR-T1200-0-36D7,IOR,305,8,T-Channel RX,Subsequent Signalling Unit,99,9940
+7/03/2014 16:29:28.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:29:30.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:29:30.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:29:30.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:29:30.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:29:38.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x61 - Request for Acknowledge (RQA) User Data,null,null
+7/03/2014 16:29:41.907,IOR-R1200-0-36D3,IOR,305,8,R-Channel RX,0x22 - Access Request (R/T-Channel),96,14920
+7/03/2014 16:29:42.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x51 - T-Channel Assignment,null,null
+7/03/2014 16:29:46.242,IOR-T1200-0-3718,IOR,305,12,T-Channel RX,0x71 - User Data (ISU) - RLS,93,9900
+7/03/2014 16:29:46.402,IOR-T1200-0-3718,IOR,305,12,T-Channel RX,Subsequent Signalling Unit,93,9900
+7/03/2014 16:29:46.562,IOR-T1200-0-3718,IOR,305,12,T-Channel RX,Subsequent Signalling Unit,93,9900
+7/03/2014 16:29:46.744,IOR-T1200-0-3718,IOR,305,12,T-Channel RX,Subsequent Signalling Unit,93,9900
+7/03/2014 16:29:46.882,IOR-T1200-0-3718,IOR,305,12,T-Channel RX,Subsequent Signalling Unit,91,9900
+7/03/2014 16:29:47.42,IOR-T1200-0-3718,IOR,305,12,T-Channel RX,Subsequent Signalling Unit,91,9900
+7/03/2014 16:29:47.202,IOR-T1200-0-3718,IOR,305,12,T-Channel RX,Subsequent Signalling Unit,93,9900
+7/03/2014 16:29:47.362,IOR-T1200-0-3718,IOR,305,12,T-Channel RX,Subsequent Signalling Unit,93,9900
+7/03/2014 16:29:47.522,IOR-T1200-0-3718,IOR,305,12,T-Channel RX,Subsequent Signalling Unit,92,9900
+7/03/2014 16:29:47.682,IOR-T1200-0-3718,IOR,305,12,T-Channel RX,Subsequent Signalling Unit,92,9900
+7/03/2014 16:29:47.856,IOR-T1200-0-3718,IOR,305,12,T-Channel RX,Subsequent Signalling Unit,91,9900
+7/03/2014 16:29:47.905,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x61 - Request for Acknowledge (RQA) User Data,null,null
+7/03/2014 16:29:48.39,IOR-T1200-0-3718,IOR,305,12,T-Channel RX,Subsequent Signalling Unit,91,9900
+7/03/2014 16:29:48.162,IOR-T1200-0-3718,IOR,305,12,T-Channel RX,Subsequent Signalling Unit,93,9900
+7/03/2014 16:29:48.322,IOR-T1200-0-3718,IOR,305,12,T-Channel RX,Subsequent Signalling Unit,93,9900
+7/03/2014 16:29:48.906,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x62 - Acknowledge User Data,null,null
+7/03/2014 16:29:49.907,IOR-R1200-0-36ED,IOR,305,4,R-Channel RX,0x62 - Acknowledge User Data (R-channel),87,14940
+7/03/2014 16:29:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,0x71 - User Data (ISU) - RLS,null,null
+7/03/2014 16:29:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:29:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:29:50.405,IOR-P10500-0-3859,IOR,305,10,P-Channel TX,Subsequent Signalling Unit,null,null
+7/03/2014 16:29:52.406,IOR-R1200-0-36ED,IOR,305,4,R-Channel RX,0x62 - Acknowledge User Data (R-channel),89,14920

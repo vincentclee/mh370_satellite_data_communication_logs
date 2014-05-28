@@ -1,0 +1,20 @@
+USE mh370;
+SHOW TABLES;
+
+-- all data
+SELECT * FROM signalling_unit;
+SELECT * FROM channel_name;
+SELECT * FROM ocean_region;
+SELECT * FROM channel_type;
+SELECT * FROM su_type;
+SELECT * FROM stage;
+select `time` from signalling_unit;
+
+-- Row Counter
+SELECT COUNT(*) FROM signalling_unit;
+SELECT COUNT(*) FROM channel_name;
+SELECT COUNT(*) FROM ocean_region;
+SELECT COUNT(*) FROM channel_type;
+SELECT COUNT(*) FROM su_type;
+SELECT COUNT(*) FROM stage;
+

@@ -1,0 +1,50 @@
+time,channel_name,ocean_region,ges_id,channel_unit_id,channel_type,su_type,burst_frequency_offset,burst_timing_offset
+7/03/2014 23:14:01.196,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Test,217,null
+7/03/2014 23:14:01.215,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Test,null,null
+7/03/2014 23:14:01.378,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Test,null,null
+7/03/2014 23:14:01.386,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Test,216,null
+7/03/2014 23:14:01.554,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Test,null,null
+7/03/2014 23:14:01.554,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Test,216,null
+7/03/2014 23:14:01.697,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Test,216,null
+7/03/2014 23:14:01.745,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Test,null,null
+7/03/2014 23:14:01.878,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Test,null,null
+7/03/2014 23:14:01.903,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Test,216,null
+7/03/2014 23:14:02.25,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Test,null,null
+7/03/2014 23:14:02.49,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Test,216,null
+7/03/2014 23:14:02.196,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Test,216,null
+7/03/2014 23:14:02.215,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Test,null,null
+7/03/2014 23:14:02.378,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Test,null,null
+7/03/2014 23:14:02.386,IOR-3737-21000,IOR,305,6,C-Channel RX,0x60 - Telephony Acknowledge,216,null
+7/03/2014 23:14:02.527,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Test,null,null
+7/03/2014 23:14:02.532,IOR-3737-21000,IOR,305,6,C-Channel RX,0x60 - Telephony Acknowledge,216,null
+7/03/2014 23:14:02.697,IOR-3737-21000,IOR,305,6,C-Channel RX,0x60 - Telephony Acknowledge,216,null
+7/03/2014 23:14:02.888,IOR-3737-21000,IOR,305,6,C-Channel RX,0x60 - Telephony Acknowledge,216,null
+7/03/2014 23:14:03.71,IOR-3737-21000,IOR,305,6,C-Channel RX,0x60 - Telephony Acknowledge,217,null
+7/03/2014 23:14:03.196,IOR-3737-21000,IOR,305,6,C-Channel RX,0x60 - Telephony Acknowledge,216,null
+7/03/2014 23:14:03.386,IOR-3737-21000,IOR,305,6,C-Channel RX,0x60 - Telephony Acknowledge,216,null
+7/03/2014 23:14:03.531,IOR-3737-21000,IOR,305,6,C-Channel RX,0x60 - Telephony Acknowledge,216,null
+7/03/2014 23:14:03.696,IOR-3737-21000,IOR,305,6,C-Channel RX,0x60 - Telephony Acknowledge,216,null
+7/03/2014 23:14:07.905,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Status Report,null,null
+7/03/2014 23:14:08.696,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Status Report,220,null
+7/03/2014 23:14:17.878,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Status Report,null,null
+7/03/2014 23:14:18.697,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Status Report,218,null
+7/03/2014 23:14:27.878,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Status Report,null,null
+7/03/2014 23:14:28.696,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Status Report,222,null
+7/03/2014 23:14:37.905,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Status Report,null,null
+7/03/2014 23:14:38.696,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Status Report,220,null
+7/03/2014 23:14:47.878,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Status Report,null,null
+7/03/2014 23:14:48.696,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Status Report,220,null
+7/03/2014 23:14:57.878,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Status Report,null,null
+7/03/2014 23:14:58.696,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Status Report,218,null
+7/03/2014 23:15:00.378,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Channel Release,null,null
+7/03/2014 23:15:00.532,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Channel Release,null,null
+7/03/2014 23:15:00.750,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Channel Release,null,null
+7/03/2014 23:15:00.878,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Channel Release,null,null
+7/03/2014 23:15:00.907,IOR-P10500-0-386B,IOR,305,10,P-Channel TX,0x30 - Call Progress - Channel Release,null,null
+7/03/2014 23:15:01.25,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Channel Release,null,null
+7/03/2014 23:15:01.197,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Channel Release,218,null
+7/03/2014 23:15:01.224,IOR-3737-21000,IOR,305,6,C-Channel TX,0x30 - Call Progress - Channel Release,null,null
+7/03/2014 23:15:01.386,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Channel Release,217,null
+7/03/2014 23:15:01.532,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Channel Release,219,null
+7/03/2014 23:15:01.697,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Channel Release,219,null
+7/03/2014 23:15:01.886,IOR-3737-21000,IOR,305,6,C-Channel RX,0x30 - Call Progress - Channel Release,217,null
