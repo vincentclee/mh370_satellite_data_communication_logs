@@ -18,3 +18,19 @@ SELECT COUNT(*) FROM channel_type;
 SELECT COUNT(*) FROM su_type;
 SELECT COUNT(*) FROM stage;
 
+-- Master Join
+SELECT signalling_unit.id, signalling_unit.time, channel_name.name as channel_name, 
+	ocean_region.name as ocean_region, signalling_unit.ges_id, signalling_unit.channel_unit_id, 
+	channel_type.name as channel_type, su_type.name as su_type, signalling_unit.burst_frequency_offset, 
+	signalling_unit.burst_timing_offset, stage.name as stage
+FROM signalling_unit
+    JOIN channel_name
+        ON channel_name.id = signalling_unit.channel_name_id
+    JOIN ocean_region
+        ON ocean_region.id = signalling_unit.ocean_region_id
+    JOIN channel_type
+        ON channel_type.id = signalling_unit.channel_type_id
+    JOIN su_type
+        ON su_type.id = signalling_unit.su_type_id
+    JOIN stage
+        ON stage.id = signalling_unit.stage_id;

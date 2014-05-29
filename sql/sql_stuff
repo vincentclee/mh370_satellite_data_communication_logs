@@ -1,0 +1,28 @@
+Time
+Channel Name
+Ocean Region
+GES ID (octal)
+Channel Unit ID
+Channel Type
+SU Type
+Burst Frequency Offset (Hz) BFO
+Burst Timing Offset (microseconds) BTO
+
+time
+channel_name
+ocean_region
+ges_id
+channel_unit_id
+channel_type
+su_type
+burst_frequency_offset
+burst_timing_offset
+
+9
+-----------------------------------------------------
+signalling_unit
+
+channel_name
+ocean_region
+channel_type
+su_type
